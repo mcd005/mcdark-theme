@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "McDark Theme",
+                "label": "mcdark-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/McDark Theme-color-theme.json"
+                "path": "./themes/mcdark-theme-color-theme.json"
             }
         ]
     }
