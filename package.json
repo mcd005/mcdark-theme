@@ -1,7 +1,7 @@
 {
     "name": "mcdark-theme",
     "displayName": "McDark Theme",
-    "description": "If Dark+ and GitHub Dark theme had a baby",
+    "description": "If VSCode Dark+ and GitHub Dark theme had a baby",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "mcdark-theme",
+                "label": "McDark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mcdark-theme-color-theme.json"
             }
