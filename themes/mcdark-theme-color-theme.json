@@ -324,6 +324,12 @@
 		}
 		},
 		{
+		"scope": "variable.parameter",
+		"settings": {
+			"foreground": "#a7dfff"
+		}
+		},
+		{
 		"scope": "invalid.broken",
 		"settings": {
 			"fontStyle": "italic",
