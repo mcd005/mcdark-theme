@@ -188,12 +188,14 @@
 		}
 		},
 		{
+		"name": "Constants",
 		"scope": [
 			"constant",
 			"entity.name.constant",
 			"variable.other.constant",
 			"variable.language",
-			"entity"
+			"entity",
+			"keyword.other.unit"
 		],
 		"settings": {
 			"foreground": "#b5cea8"
