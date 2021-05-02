@@ -314,12 +314,6 @@
 		}
 		},
 		{
-		// "scope": "variable",
-		// "settings": {
-		// 	"foreground": "#ffa657"
-		// }
-		},
-		{
 		"scope": "variable.other",
 		"settings": {
 			"foreground": "#79C0FF"
