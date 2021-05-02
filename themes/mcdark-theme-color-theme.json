@@ -123,7 +123,7 @@
     "editor.wordHighlightStrongBorder": "#17E5E666",
     "editorBracketMatch.background": "#17E5E650",
     "editorBracketMatch.border": "#17E5E600",
-    "editorGutter.modifiedBackground": "#9e6a03",
+    "editorGutter.modifiedBackground": "#f09e6e",
     "editorGutter.addedBackground": "#196c2e",
     "editorGutter.deletedBackground": "#b62324",
     "diffEditor.insertedTextBackground": "#2ea04333",
