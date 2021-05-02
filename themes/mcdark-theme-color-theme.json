@@ -241,7 +241,7 @@
 		{
 		"scope": "keyword",
 		"settings": {
-			"foreground": "#79c0ff"
+			"foreground": "#c9d1d9"
 		}
 		},
 		{
@@ -270,7 +270,7 @@
 			"storage.type"
 		],
 		"settings": {
-			"foreground": "#79c0ff"
+			"foreground": "#c9d1d9"
 		}
 		},
 		{
@@ -314,7 +314,7 @@
 		{
 		"scope": "variable.other",
 		"settings": {
-			"foreground": "#c9d1d9"
+			"foreground": "#79C0FF"
 		}
 		},
 		{
