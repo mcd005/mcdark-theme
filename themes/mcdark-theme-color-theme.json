@@ -251,6 +251,20 @@
 		}
 		},
 		{
+			"name": "Control flow / Special keywords",
+			"scope": [
+				"keyword.control.directive",
+				"source.cpp keyword.operator.new",
+				"keyword.operator.delete",
+				"keyword.other.using",
+				"keyword.other.operator",
+				"entity.name.operator"
+			],
+			"settings": {
+				"foreground": "#a15c9c"
+			}
+		},
+		{
 		"scope": [
 			"storage",
 			"storage.type"
@@ -292,10 +306,10 @@
 		}
 		},
 		{
-		"scope": "variable",
-		"settings": {
-			"foreground": "#ffa657"
-		}
+		// "scope": "variable",
+		// "settings": {
+		// 	"foreground": "#ffa657"
+		// }
 		},
 		{
 		"scope": "variable.other",
