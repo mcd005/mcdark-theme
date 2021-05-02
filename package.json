@@ -2,7 +2,8 @@
     "name": "mcdark-theme",
     "displayName": "McDark Theme",
     "description": "If VSCode Dark+ and GitHub Dark theme had a baby",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "mcd005",
     "engines": {
         "vscode": "^1.55.0"
     },
