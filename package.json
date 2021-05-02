@@ -1,22 +1,26 @@
 {
-    "name": "mcdark-theme",
-    "displayName": "McDark Theme",
-    "description": "If VSCode Dark+ and GitHub Dark theme had a baby",
-    "version": "1.0.0",
-    "publisher": "mcd005",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "McDark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/mcdark-theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "mcdark-theme",
+  "displayName": "McDark Theme",
+  "description": "If VSCode Dark+ and GitHub Dark theme had a baby",
+  "version": "1.0.0",
+  "publisher": "mcd005",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcd005/mcdark-theme"
+  },
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "McDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mcdark-theme-color-theme.json"
+      }
+    ]
+  }
 }
