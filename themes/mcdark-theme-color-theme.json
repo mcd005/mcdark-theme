@@ -206,7 +206,7 @@
 			"meta.definition.variable"
 		],
 		"settings": {
-			"foreground": "#ffa657"
+			"foreground": "#C9D1D9"
 		}
 		},
 		{
@@ -245,13 +245,19 @@
 		}
 		},
 		{
+		"scope": "keyword.control",
+		"settings": {
+			"foreground": "#C586C0"
+		}
+		},
+		{
 		"scope": "keyword.operator",
 		"settings": {
 			"foreground": "#ff7b72"
 		}
 		},
 		{
-			"name": "Control flow / Special keywords",
+			"name": "Special keywords and directives",
 			"scope": [
 				"keyword.control.directive",
 				"source.cpp keyword.operator.new",
