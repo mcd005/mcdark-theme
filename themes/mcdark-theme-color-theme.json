@@ -223,7 +223,11 @@
     },
     {
       "name": "Function names and invocations",
-      "scope": ["entity.name.function", "support.function.builtin.python"],
+      "scope": [
+        "entity.name.function",
+        "support.function.builtin.python",
+        "meta.function-call.generic.python"
+      ],
       "settings": {
         "foreground": "#ff7b72"
       }
