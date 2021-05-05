@@ -2,8 +2,9 @@
   "name": "mcdark-theme",
   "displayName": "McDark Theme",
   "description": "If VSCode Dark+ and GitHub Dark theme had a baby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mcd005",
+  "icon": "McDark_Logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mcd005/mcdark-theme"
